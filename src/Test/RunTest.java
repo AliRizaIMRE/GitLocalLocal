@@ -19,6 +19,7 @@ public class RunTest {
         // git push -u origin main --- local deki branch imi zorla maine push et
         // git checkout test --> test branc 'a gectik
         // branch ta olusturulan dosya add ve commit etmeden branch degistirme!!! Hata verir
+        // gitHup'tan branch ta yapilan degisiklik git pull ile cekilebilir
 
 
         // Proje de dosya olustur ---> .gitignore --> Buraya ignore edeceginiz dosyalari ekle
