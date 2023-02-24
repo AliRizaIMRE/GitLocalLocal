@@ -17,6 +17,8 @@ public class RunTest {
         // git remote ile kontrol ---> origin
         // git branch --> branch'lari görme
         // git push -u origin main --- local deki branch imi zorla maine push et
+        // git branch ---> mevcut branslari gör
+        // git branch test ---> test diye bir branch olustu
 
 
         // Proje de dosya olustur ---> .gitignore --> Buraya ignore edeceginiz dosyalari ekle
