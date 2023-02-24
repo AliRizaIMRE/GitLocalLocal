@@ -15,6 +15,10 @@ public class RunTest {
         // git status --> Degisiklikler
         // git remote add origin https://github.com/AliRizaIMRE/GitLocalLocal.git ---> gitHup a entegrasyon icin
         // git remote ile kontrol ---> origin
+        // git branch --> branch'lari görme
+        // git push -u origin main --- local deki branch imi zorla maine push et
+
+
         // Proje de dosya olustur ---> .gitignore --> Buraya ignore edeceginiz dosyalari ekle
         // Proje de dosya olustur ---> README.md --> GitHub ta projeleri okutmak icin
 
