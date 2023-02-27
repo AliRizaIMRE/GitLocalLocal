@@ -16,9 +16,16 @@ public class RunTest {
         // git remote ile kontrol ---> origin
         // git branch --> branch'lari görme
         // git push -u origin main --- local deki branch imi zorla maine push et
+
         // git branch ---> mevcut branslari gör
         // git branch test ---> test diye bir branch olustur
         // clear yada CTRL + L terminali temizler
+
+        // git checkout test --> test branc 'a gectik
+        // branch ta olusturulan dosya add ve commit etmeden branch degistirme!!! Hata verir
+        // gitHup'tan branch ta yapilan degisiklik git pull ile cekilebilir
+
+
 
         // Proje de dosya olustur ---> .gitignore --> Buraya ignore edeceginiz dosyalari ekle
         // Proje de dosya olustur ---> README.md --> GitHub ta projeleri okutmak icin
